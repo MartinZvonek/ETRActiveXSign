@@ -1,0 +1,11 @@
+﻿.OPTION EXPLICIT
+
+.Set MaxDiskSize=0
+
+.Set DiskDirectoryTemplate=cabinet
+
+.Set CabinetNameTemplate=ETRActiveXSignSetup.cab
+
+Debug\ETRActiveXSignSetup.msi
+
+ETRActiveXSign.inf

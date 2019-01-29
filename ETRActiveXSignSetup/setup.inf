@@ -1,0 +1,19 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Mon Jan 28 22:40:37 2019           **
+;**                                                                **
+;** MakeCAB Version: 5.00                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,ETRActiveXSignSetup.cab
+[file list]
+1,1,ETRActiveXSignSetup.msi,2789376
+1,1,ETRActiveXSign.inf,179
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Mon Jan 28 22:40:37 2019           **
+;**                                                                **
+;*** END ************************************************************

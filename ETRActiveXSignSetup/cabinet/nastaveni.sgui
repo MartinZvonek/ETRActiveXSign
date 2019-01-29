@@ -1,0 +1,12 @@
+SignTool=C:\Program Files (x86)\Windows Kits\10\App Certification Kit\signtool.exe
+PFX=D:\muj.pfx
+Password=Abcd1234
+TimeStamp=
+TimeStampRFC3161=No
+TimeStampSHA256=No
+ProgramTitle=
+ProgramURL=
+File1=C:\Users\Martin Zvonek\Documents\Visual Studio 2015\Projects\ETRActiveXSign\ETRActiveXSignSetup\Debug\ETRActiveXSignSetup.msi
+SignatureAppended=No
+SignatureSHA256=Yes
+ResultVerbose=No
