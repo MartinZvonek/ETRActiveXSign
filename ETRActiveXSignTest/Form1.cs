@@ -21,8 +21,7 @@ namespace ETRActiveXSignTest
         public string cesta_souboru;
         public byte[] data_souboru = null;
         public ETRPDFSigner ETRPDFSigner = null;
-        public int test;     
-
+        public string xxx = "";
         public Form1()
         {
             InitializeComponent();
